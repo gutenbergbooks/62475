@@ -12,7 +12,7 @@ Title: Islas Filipinas - Administracion de Justicia
 
 Author: Carlos Villarragut y Estevan
 
-Release Date: June 25, 2020 [EBook #62475]
+Release Date: June 26, 2020 [EBook #62475]
 
 Language: Spanish
 
@@ -23,8 +23,7 @@ Character set encoding: UTF-8
 
 
 
-Produced by Mario Rodríguez Peña <mavorte1@yahoo.es>
-
+Produced by Mario Rodríguez Peña
 
 
 
@@ -751,7 +750,8 @@ intereses sociales, es representada en la Audiencia por el Fiscal de S.
 M. y tiene por auxiliares á un Teniente Fiscal y cuatro Abogados
 Fiscales, además de los Promotores de los Juzgados de primera
 instancia.
-	Corresponde á este Ministerio, promover la observancia de las Leyes
+
+Corresponde á este Ministerio, promover la observancia de las Leyes
 que determinan la competencia de los Tribunales y Juzgados, de los
 Reglamentos y Ordenanzas relativas á la Administracion de justicia;
 defender al Estado cuando sea parte en los juicios civiles comunes é
@@ -768,7 +768,8 @@ oportunas ante la autoridad competente y celar sobre la ejecucion
 de las penas impuestas por los Tribunales, visitando al electo los
 establecimientos donde se hallen los rematados ó sufran sus
 condenas.
-	Compete al Fiscal de S. M. en la Real Audiencia, dirijir por sí mismo
+
+Compete al Fiscal de S. M. en la Real Audiencia, dirijir por sí mismo
 los negocios más importantes de su oficio, encargando el despacho
 de los demás al Teniente y Abogados Fiscales, dándoles
 instrucciones generales y especiales conducentes al mejor servicio;
@@ -790,17 +791,20 @@ Gobierno, de las vacantes que ocurrieren en el Ministerio público,
 de los nombramientos que hiciere de Tenientes, Abogados, Fiscales
 y Promotores sustitutos, los que pondrá asimismo en conocimiento
 del Gobernador Superior Civil y de la Audiencia.
-	El Teniente y Abogados Fiscales, ejercen la accion pública en su
+
+El Teniente y Abogados Fiscales, ejercen la accion pública en su
 propio nombre bajo la direccion y responsabilidad del Fiscal que
 habrá de rubricar sus escritos.
-	En uno y otros son de su cargo; oir notificaciones; llevar la palabra
+
+En uno y otros son de su cargo; oir notificaciones; llevar la palabra
 del Ministerio público en los negocios que les sean encomendados;
 concurrir por delegacion de su referido Jefe á las visitas de Cárceles
 que practique la Audiencia y en caso de enfermedad,
 incompatibilidad ó ausencia del mismo ó vacante de su oficio, al
 Teniente Fiscal le compele sustituirle y á falta de este á los
 Abogados Fiscales por el orden de antigüedad.
-	En el despacho de los asuntos se arreglan á las instrucciones que
+
+En el despacho de los asuntos se arreglan á las instrucciones que
 reciben del propio Fiscal de S. M. y no salvan su responsabilidad, si
 antes de ejecutarlas no le hubieren propuesto los inconvenientes
 que recelen de su cumplimiento. Si apesar de sus observaciones,
@@ -810,7 +814,8 @@ garantiza la unidad del criterio que exige la elevada institucion del
 Ministerio público, quedando no obstante á salvo la particular
 opinion que en un determinado asunto pueden tener cada uno de
 los que la representan.
-	Los Promotores Fiscales de los Juzgados de primera instancia, de los
+
+Los Promotores Fiscales de los Juzgados de primera instancia, de los
 que como se ha dicho en la anterior seccion, ejercen el Ministerio
 público en los Juzgados de primera instancia, el desempeño de éste
 es por consiguiente dentro de la demarcacion del mismo, obrando
@@ -825,18 +830,21 @@ la decision de su referido Jefe sobre su ulterior seguimiento, del que
 observará con exactitud sus instrucciones y aunque se arreglen á
 ellas no libran su responsabilidad sino en la forma que queda
 expresada al tratar del Teniente y Abogados Fiscales.
-	El nombramiento de Fiscal de la Audiencia, recae en cesantes del
+
+El nombramiento de Fiscal de la Audiencia, recae en cesantes del
 mismo cargo; en funcionarios que sirvan ó hayan servido el cargo
 inferior inmediato, ó en Abogados de reputacion que hubiesen
 ejercido por doce años en Tribunales Superiores, y pagado una de
 las primeras cuotas de contribucion, ó Catedráticos de derecho con
 buena nota y el mismo tiempo de profesorado.
-	Para optar á ser nombrado Teniente Fiscal ó Abogado Fiscal, se
+
+Para optar á ser nombrado Teniente Fiscal ó Abogado Fiscal, se
 requiere: llevar de ejercicio en la abogacía ocho años y con buena
 nota: ser ó haber sido Profesor de derecho por igual tiempo, ó
 desempeñado por el mismo número de años cargos, para los cuales
 fuere necesario el título de Abogado.
-	En el ingreso para promotores fiscales de entrada, se necesita
+
+En el ingreso para promotores fiscales de entrada, se necesita
 haberlo sido sustituto durante un año ó Abogado con buena nota y
 dos años de ejercicio. Para serlo de ascenso, hallarse comprendido
 en cualquiera de las categorías exigidas para el ingreso en la carrera
@@ -901,25 +909,29 @@ y con respecto al de Administracion de justicia, resalta como la más
 importante la de la gracia de indulto que de antiguo viene concedida
 por las Leyes de Indias á las Autoridades Superiores de las provincias
 de Ultramar.
-	En virtud pues de tan preciosa prerogativa puede indultar de la pena
+
+En virtud pues de tan preciosa prerogativa puede indultar de la pena
 capital impuesta por los tribunales y tambien de otras en casos
 extraordinarios, en que la tranquilidad pública exija que se haga uso
 de dicha facultad y en los de incomunicacion con la Península,
 siempre prévio informe del Juez ó tribunal sentenciador y el Voto
 consultivo del Consejo de Administracion y dando luego cuenta
 documentada al Gobierno de S. M.
-	En los demás casos queda reducido tal derecho de gracia, á
+
+En los demás casos queda reducido tal derecho de gracia, á
 suspender la ejecucion de la sentencia, á oir el voto consultivo del
 referido cuerpo administrativo y proponer y recomendar el indulto
 al Gobierno de S. M. en exposicion motivada y documentada.
-	Cuando por la gravedad y circunstancias de los mismos casos,
+
+Cuando por la gravedad y circunstancias de los mismos casos,
 considere la propia Autoridad Superior que és conveniente ejercer
 tal prerogativa de indulto sin someterse á las prescripciones que
 quedan consignadas, puede verificarlo haciendo uso de las
 facultades que se le concede por Soberana disposicion, sin quedar
 sujeto á otra responsabilidad que la que el Gobierno pueda exijirle
 para asegurar el bueno y leal desempeño de su elevado cargo.
-	Con arreglo á las propias facultades derivativas de la mencionada
+
+Con arreglo á las propias facultades derivativas de la mencionada
 alta inspeccion que se tienen concedidas á los Gobernadores
 Generales, pueden disponer la formacion de causa contra los Jueces
 locales, los de primera instancia y proponer por justos motivos al
@@ -1031,7 +1043,8 @@ podría conseguirse que la fuerza armada cumpliera con los
 importantes fines que su organizacion requiere; y para ello se ha
 establecido la determinada competencia de las jurisdicciones de
 Guerra y Marina en los siguientes casos.
-	1.º En el conocimiento de las causas criminales por delitos
+
+1.º En el conocimiento de las causas criminales por delitos
 cometidos por militares y marinos de todas clases en activo servicio,
 excepto de los que fueren perpetrados en tierra por la gente de mar
 y por los operarios de los Arsenales, Astilleros, fundiciones, fábricas
@@ -1049,43 +1062,56 @@ perpetrados por los militares antes de pertenecerá la milicia,
 estando de baja en ella durante la desercion, ó en el desempeño de
 algún destino ó cargo público de cuyos delitos todos, solo compete
 conocer á la jurisdiccion ordinaria.
-	2.º De los delitos de traicion que tengan por objeto la entrega de
+
+2.º De los delitos de traicion que tengan por objeto la entrega de
 una plaza, puesto militar, buque del Estado, arsenal ó almacenes de
 municiones de boca ó guerra al enemigo.
-	3.º De los delitos de seduccion de tropa Española ó que se halle al
+
+3.º De los delitos de seduccion de tropa Española ó que se halle al
 servicio de España, para que deserte de sus banderas en tiempo de
 guerra ó se pase al enemigo.
-	4.º De los delitos de espionage, insulto á centinelas, salvaguardias y
+
+4.º De los delitos de espionage, insulto á centinelas, salvaguardias y
 tropa armada, atentado y desacato á la Autoridad militar.
-	5.º De los delitos de seduccion y auxilio á la desercion en tiempo de
+
+5.º De los delitos de seduccion y auxilio á la desercion en tiempo de
 paz.
-	6.º De los delitos de robo de armas, pertrechos, municiones de boca
+
+6.º De los delitos de robo de armas, pertrechos, municiones de boca
 y guerra ó efectos pertenecientes á la Hacienda militar, en los
 Almacenes, cuarteles, Establecimientos militares, arsenales y
 buques del Estado y del de incendio cometido en los mismos
 parajes.
-	7.º De los delitos cometidos en plazas sitiadas por el enemigo que
+
+7.º De los delitos cometidos en plazas sitiadas por el enemigo que
 tiendan á alterar el orden público ó á comprometer la seguridad de
 las mismas.
-	8.º De los delitos que se cometan en los Arsenales del Estado contra
+
+8.º De los delitos que se cometan en los Arsenales del Estado contra
 el régimen interior, conservacion y seguridad de estos
 establecimientos.
-	9.º De los delitos y tallas comprendidos en los bandos que con
+
+9.º De los delitos y tallas comprendidos en los bandos que con
 arreglo á ordenanza puedan dictar los Generales en Jefe de los
 Ejércitos.
-	10. De los delitos cometidos por los prisioneros de guerra y personas
+
+10. De los delitos cometidos por los prisioneros de guerra y personas
 de cualquiera clase, condicion y sexo que sigan al Ejército en
 campaña.
-	11. De los delitos, de los asentistas que tengan relacion con sus
+
+11. De los delitos, de los asentistas que tengan relacion con sus
 asientos y contratas.
-	12. De las causas por delitos de cualquiera clase cometidos á bordo
+
+12. De las causas por delitos de cualquiera clase cometidos á bordo
 de las embarcaciones mercantes, asi nacionales como extranjeras,
 de las de presas, represalias y contrabando marítimo, naufragios,
 abordajes y arribadas.
-	13. De las faltas especiales que se cometan por los militares en el
+
+13. De las faltas especiales que se cometan por los militares en el
 ejercicio de sus funciones, ó que afecten inmediatamente el
 desempeño de las mismas.
-	14. De las infracciones de las reglas de policía de las naves, puertos,
+
+14. De las infracciones de las reglas de policía de las naves, puertos,
 playas y zonas marítimas, de las ordenanzas de Marina y
 reglamentos de pesca en las aguas saladas del mar.
 
@@ -1168,8 +1194,7 @@ Justicia, by Carlos Villarragut y Estevan
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/6/2/4/7/62475/
 
-Produced by Mario Rodríguez Peña <mavorte1@yahoo.es>
-
+Produced by Mario Rodríguez Peña
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
